@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YouTube-hooks/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/YouTube-hooks/static/js/main.85681ee5.chunk.js",
+    "main.js.map": "/YouTube-hooks/static/js/main.85681ee5.chunk.js.map",
+    "runtime-main.js": "/YouTube-hooks/static/js/runtime-main.51e9ff72.js",
+    "runtime-main.js.map": "/YouTube-hooks/static/js/runtime-main.51e9ff72.js.map",
+    "static/css/2.2611e590.chunk.css": "/YouTube-hooks/static/css/2.2611e590.chunk.css",
+    "static/js/2.bc4c2f3d.chunk.js": "/YouTube-hooks/static/js/2.bc4c2f3d.chunk.js",
+    "static/js/2.bc4c2f3d.chunk.js.map": "/YouTube-hooks/static/js/2.bc4c2f3d.chunk.js.map",
+    "index.html": "/YouTube-hooks/index.html",
+    "precache-manifest.596274adef1b31c8f34ae9cef6449485.js": "/YouTube-hooks/precache-manifest.596274adef1b31c8f34ae9cef6449485.js",
+    "service-worker.js": "/YouTube-hooks/service-worker.js",
+    "static/css/2.2611e590.chunk.css.map": "/YouTube-hooks/static/css/2.2611e590.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/YouTube-hooks/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.bc4c2f3d.chunk.js.LICENSE.txt": "/YouTube-hooks/static/js/2.bc4c2f3d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/YouTube-hooks/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/youtubeLogo.png": "/YouTube-hooks/static/media/youtubeLogo.adcaaacb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51e9ff72.js",
+    "static/css/2.2611e590.chunk.css",
+    "static/js/2.bc4c2f3d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.85681ee5.chunk.js"
+  ]
+}

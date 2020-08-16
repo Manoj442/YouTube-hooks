@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b70381a2e91bb40808086dff1aa6a86",
+    "revision": "bfcd539112c8ad37187e3e7e372fe038",
     "url": "/YouTube-hooks/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YouTube-hooks/static/css/2.2611e590.chunk.css"
   },
   {
-    "revision": "acd3d723978704de8bb4",
+    "revision": "ab21b3a379561099846e",
     "url": "/YouTube-hooks/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YouTube-hooks/static/js/2.bc4c2f3d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "acd3d723978704de8bb4",
-    "url": "/YouTube-hooks/static/js/main.85681ee5.chunk.js"
+    "revision": "ab21b3a379561099846e",
+    "url": "/YouTube-hooks/static/js/main.43862b0d.chunk.js"
   },
   {
     "revision": "ab0a3cd40634aea678a5",
